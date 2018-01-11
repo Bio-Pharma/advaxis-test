@@ -180,7 +180,7 @@ ul.top-nav>li>a:hover{
 	 list-style: none;
 }
 #header_promo{
-	 height: 675px;
+   /* height: 675px; */
     width: 100%;
     position: relative;
 }
